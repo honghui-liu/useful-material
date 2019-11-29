@@ -14,7 +14,7 @@
 ## Commands
 * To visualize the light curve
 ```
-lcurve nser=1 cfile1=rate.fits window="-" dtnb=50 nbint=3000 outfile="lc" plot=yes plotdev="/xs"}
+lcurve nser=1 cfile1=rate.fits window="-" dtnb=50 nbint=3000 outfile="lc" plot=yes plotdev="/xs"
 ```
 
 * To group data with <code>grppha</code>
