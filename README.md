@@ -1,5 +1,5 @@
 # <center>Useful material for projects</center>
-*This page is used to record the useful links, commands and references that I found can be very useful for doing projects.*
+*This page is used to record the useful links, commands and references that I found can be very helpful for doing projects.*
 
 ## Links
 * Plotting with PLT: [here](https://heasarc.gsfc.nasa.gov/docs/xte/recipes/plotting.html)
