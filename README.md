@@ -7,6 +7,7 @@
 * X-ray transition energies: [go](https://www.nist.gov/pml/x-ray-transition-energies-database)
 * X-ray spectral fitting methods workshop: [here](https://www.mpe.mpg.de/resources/HE/Buchner/xrayworkshop/?fbclid=IwAR3aKISdmmASKO-IeX3skdzgFREszKa16WFbACG_tj-FQnHqeY0GYkFHyGs)
 * MJD converter: [here it is](http://www.csgnetwork.com/julianmodifdateconv.html)
+* Swift Hard X-ray Survey: [Let's go](https://swift.gsfc.nasa.gov/results/bs105mon/)
 
 
 ## References
