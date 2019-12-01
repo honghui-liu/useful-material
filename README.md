@@ -2,6 +2,7 @@
 *This page is used to record the useful links, commands and references that I found can be very helpful for doing projects.*
 
 ## Links
+* Homepage of: [Cosimo Bambi](http://www.physics.fudan.edu.cn/tps/people/bambi/Site/Home.html)
 * Plotting with PLT: [here](https://heasarc.gsfc.nasa.gov/docs/xte/recipes/plotting.html)
 * RA DEC flexible converter: [click me](http://www.astrouw.edu.pl/~jskowron/ra-dec/)
 * X-ray transition energies: [go](https://www.nist.gov/pml/x-ray-transition-energies-database)
