@@ -10,6 +10,8 @@
 * MJD converter: [here it is](http://www.csgnetwork.com/julianmodifdateconv.html)
 * Swift Hard X-ray Survey: [Let's go](https://swift.gsfc.nasa.gov/results/bs105mon/)
 * The Swift-XRT Point Source catalog: [2SXPS](https://www.swift.ac.uk/2SXPS/)
+* The CLOUDY homepage: [CLOUDY](https://www.nublado.org/)
+* Atomic database for astrophysicists: [ATOMDB](http://www.atomdb.org/)
 
 
 ## References
