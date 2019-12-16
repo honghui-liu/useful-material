@@ -12,6 +12,7 @@
 * The Swift-XRT Point Source catalog: [2SXPS](https://www.swift.ac.uk/2SXPS/)
 * The CLOUDY homepage: [CLOUDY](https://www.nublado.org/)
 * Atomic database for astrophysicists: [ATOMDB](http://www.atomdb.org/)
+* The Galactic nH calculator: [engage!](https://www.swift.ac.uk/analysis/nhtot/index.php)
 
 
 ## References
