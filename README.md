@@ -14,7 +14,7 @@
 * Atomic database for astrophysicists: [ATOMDB](http://www.atomdb.org/)
 * The Galactic nH calculator: [engage!](https://www.swift.ac.uk/analysis/nhtot/index.php)
 * The Cambridge group: [Here](https://www-xray.ast.cam.ac.uk/)
-
+* The chi-square table: [chi](http://www.reid.ai/2012/09/chi-squared-distribution-table-with.html)
 
 ## References
 
